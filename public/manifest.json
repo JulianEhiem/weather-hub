@@ -3,7 +3,7 @@
     "name": "Weather HUB PWA",
     "icons": [
         {
-            "src": "/images/logo.png",
+            "src": "/images/wh-icon.png",
             "type": "image/png",
             "sizes": "1024x1024"
         }
