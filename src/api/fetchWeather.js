@@ -13,6 +13,5 @@ export const fetchWeather = async (query) => {
       APPID: REACT_APP_SECRET_API_KEY,
     },
   });
-
   return data;
 };
