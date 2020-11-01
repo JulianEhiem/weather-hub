@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6e6a54cb8c4154ae7417c13b79b18fc9",
+    "revision": "5e34ad3ef910c3fb0736fa86aa46e13e",
     "url": "/weatherhub/index.html"
   },
   {
-    "revision": "aba12c539c3073954d2a",
+    "revision": "9a35418c3a5a35caebb7",
     "url": "/weatherhub/static/css/main.400dbc18.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/weatherhub/static/js/2.0878dcf8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aba12c539c3073954d2a",
-    "url": "/weatherhub/static/js/main.f05dbc3e.chunk.js"
+    "revision": "9a35418c3a5a35caebb7",
+    "url": "/weatherhub/static/js/main.2744a12a.chunk.js"
   },
   {
     "revision": "a6f3b31d710f67b50f01",

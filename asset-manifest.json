@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/weatherhub/static/css/main.400dbc18.chunk.css",
-    "main.js": "/weatherhub/static/js/main.f05dbc3e.chunk.js",
-    "main.js.map": "/weatherhub/static/js/main.f05dbc3e.chunk.js.map",
+    "main.js": "/weatherhub/static/js/main.2744a12a.chunk.js",
+    "main.js.map": "/weatherhub/static/js/main.2744a12a.chunk.js.map",
     "runtime-main.js": "/weatherhub/static/js/runtime-main.a5b7bff7.js",
     "runtime-main.js.map": "/weatherhub/static/js/runtime-main.a5b7bff7.js.map",
     "static/js/2.0878dcf8.chunk.js": "/weatherhub/static/js/2.0878dcf8.chunk.js",
     "static/js/2.0878dcf8.chunk.js.map": "/weatherhub/static/js/2.0878dcf8.chunk.js.map",
     "index.html": "/weatherhub/index.html",
-    "precache-manifest.a546efc47f1b68a6ac6a5535b28c1373.js": "/weatherhub/precache-manifest.a546efc47f1b68a6ac6a5535b28c1373.js",
+    "precache-manifest.bd9abe3121dc25484d2fb2c6357ac460.js": "/weatherhub/precache-manifest.bd9abe3121dc25484d2fb2c6357ac460.js",
     "service-worker.js": "/weatherhub/service-worker.js",
     "static/css/main.400dbc18.chunk.css.map": "/weatherhub/static/css/main.400dbc18.chunk.css.map",
     "static/js/2.0878dcf8.chunk.js.LICENSE.txt": "/weatherhub/static/js/2.0878dcf8.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.a5b7bff7.js",
     "static/js/2.0878dcf8.chunk.js",
     "static/css/main.400dbc18.chunk.css",
-    "static/js/main.f05dbc3e.chunk.js"
+    "static/js/main.2744a12a.chunk.js"
   ]
 }
